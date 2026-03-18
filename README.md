@@ -3,7 +3,7 @@
 
 __**Integrantes**__
 - **Francisco Mercado** : Lider Diseños.
-- **Israel Becerra"" : Documentación Diseños.
+- **Israel Becerra** : Documentación Diseños.
 - **Benjamin Sanhueza** : Diseños.
 
 __**Profesor**__
